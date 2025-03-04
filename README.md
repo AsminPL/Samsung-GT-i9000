@@ -1,5 +1,7 @@
-# Samsung-GT-i9000
-Samsung GT-i9000 Galaxy S - useful files
-Original ROMs and modified ROMs
+
+<h1>Samsung GT-i9000 Galaxy S - useful files
+<br>
+<h1>Original ROMs and modified ROMs
+<br>
 Last update: 04.03.2025
 
